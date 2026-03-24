@@ -1,0 +1,7 @@
+/* Add to your index.css */
+.react-grid-item.react-grid-placeholder {
+  background: #6366f1 !important; /* Indigo-500 to match our theme */
+  opacity: 0.15 !important;
+  border-radius: 0.75rem !important; /* Matches rounded-xl */
+  transition-duration: 100ms;
+}
