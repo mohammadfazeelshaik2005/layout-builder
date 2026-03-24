@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/mohammadfazeelshaik2005/layout-builder/static/js/main.fce1fb1a.js",
-    "index.html": "/mohammadfazeelshaik2005/layout-builder/index.html",
-    "main.fce1fb1a.js.map": "/mohammadfazeelshaik2005/layout-builder/static/js/main.fce1fb1a.js.map"
+    "main.js": "/layout-builder/static/js/main.fce1fb1a.js",
+    "index.html": "/layout-builder/index.html",
+    "main.fce1fb1a.js.map": "/layout-builder/static/js/main.fce1fb1a.js.map"
   },
   "entrypoints": [
     "static/js/main.fce1fb1a.js"
